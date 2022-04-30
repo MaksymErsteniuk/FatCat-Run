@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Buffer
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 132ea63352b1a57439c89c11518f477f, type: 3}
+  templateName: BufferTemplate
+  description: 'It is using for containt some value that we want to be unchanged
+
+    And
+    also for unchanged environment objects(ligth, etc.)'
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 6178323850759176825, guid: e5a9ceb1c4e23dd4ebc0ef12c515901a, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0

@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.16f1 (049d6eca3c44) revision 302446'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22000.613; Version 2009; 64bit' Language: 'en' Physical Memory: 8075 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/maxfe/Desktop/poop2/FatCat
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+57687
+Successfully changed project path to: C:/Users/maxfe/Desktop/poop2/FatCat
+C:/Users/maxfe/Desktop/poop2/FatCat
+Using Asset Import Pipeline V2.
